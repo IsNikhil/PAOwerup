@@ -1,0 +1,83 @@
+/* PAOwerUp design tokens — every color, radius, shadow and motion value lives here. */
+:root {
+  /* surfaces */
+  --canvas: #0b0b0d;
+  --canvas-2: #111114;
+  --grid-dot: rgba(255, 255, 255, 0.07);
+  --glass: rgba(255, 255, 255, 0.04);
+  --glass-strong: rgba(255, 255, 255, 0.06);
+  --glass-solid: rgba(20, 20, 24, 0.72);
+  --inset: rgba(255, 255, 255, 0.035);
+  --inset-hover: rgba(255, 255, 255, 0.06);
+  --inset-deep: rgba(0, 0, 0, 0.28);
+
+  /* lines */
+  --line: rgba(255, 255, 255, 0.08);
+  --line-soft: rgba(255, 255, 255, 0.05);
+  --line-strong: rgba(255, 255, 255, 0.14);
+  --highlight: rgba(255, 255, 255, 0.09);
+
+  /* text */
+  --text: #fafafa;
+  --text-2: #d4d4d8;
+  --text-3: #a1a1aa;
+  --text-4: #71717a;
+  --text-5: #52525b;
+
+  /* data-type colors (ports, wires, chips) */
+  --t-resume: #e8ff5a;
+  --t-job: #4ade80;
+  --t-skills: #f87171;
+  --t-score: #60a5fa;
+  --t-audio: #a78bfa;
+  --t-doc: #f472b6;
+  --t-transcript: #a78bfa;
+
+  /* accents */
+  --mint: #6ee7b7;
+  --mint-ink: #052e1c;
+  --select: #e8ff5a;
+  --danger: #f87171;
+  --ok: #4ade80;
+  --warn: #fbbf24;
+
+  /* wires */
+  --wire: rgba(255, 255, 255, 0.35);
+  --wire-hover: rgba(255, 255, 255, 0.6);
+
+  /* radii */
+  --r-node: 18px;
+  --r-panel: 14px;
+  --r-inset: 10px;
+  --r-pill: 999px;
+
+  /* shadows */
+  --shadow-node: 0 24px 60px -12px rgba(0, 0, 0, 0.65), 0 8px 20px -8px rgba(0, 0, 0, 0.5);
+  --shadow-float: 0 18px 48px -10px rgba(0, 0, 0, 0.7), 0 2px 8px rgba(0, 0, 0, 0.35);
+  --inner-highlight: inset 0 1px 0 0 var(--highlight);
+  --select-glow: 0 0 0 1px rgba(232, 255, 90, 0.75), 0 0 28px -4px rgba(232, 255, 90, 0.35);
+
+  /* blur */
+  --blur: 20px;
+
+  /* motion */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur-fast: 120ms;
+  --dur: 220ms;
+}
+
+/* "Graphite" alternative theme (toggled from the command bar) */
+:root[data-theme='graphite'] {
+  --canvas: #141417;
+  --canvas-2: #19191d;
+  --grid-dot: rgba(255, 255, 255, 0.09);
+  --glass: rgba(255, 255, 255, 0.05);
+  --inset: rgba(255, 255, 255, 0.045);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 0ms;
+    --dur: 0ms;
+  }
+}

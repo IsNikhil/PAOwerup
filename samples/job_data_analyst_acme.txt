@@ -1,0 +1,22 @@
+Data Analyst — Acme Analytics (New Orleans, LA · Hybrid)
+
+About the role
+Acme Analytics helps regional retailers make smarter decisions with data. We are looking for an entry-level Data Analyst to join our insights team. You will turn raw data into clear dashboards and recommendations for business stakeholders.
+
+What you'll do
+• Write SQL queries to extract, join and aggregate data from our PostgreSQL and Snowflake warehouses
+• Build and maintain dashboards in Tableau or Power BI that track sales, inventory and customer KPIs
+• Clean, validate and transform datasets using Python (Pandas, NumPy)
+• Run A/B tests and statistical analysis to measure the impact of promotions
+• Present findings and recommendations to non-technical stakeholders in clear, concise language
+• Partner with data engineers to improve ETL pipelines and data quality
+
+What we're looking for
+• Bachelor's degree in Computer Science, Statistics, Mathematics or a related field
+• Strong SQL skills are required
+• Experience with Python for data analysis
+• Experience with Tableau, Power BI or a similar data visualization tool
+• Solid understanding of statistics and hypothesis testing
+• Excellent communication skills and attention to detail
+• Nice to have: experience with Snowflake, dbt or Airflow
+• Nice to have: familiarity with Git and Agile teams

@@ -1,0 +1,29 @@
+Sona Patel
+Hammond, LA · sona.patel@example.edu · (985) 555-0142 · linkedin.com/in/sonapatel
+
+EDUCATION
+Southeastern Louisiana University — B.S. Computer Science, Minor in Mathematics      May 2026
+GPA 3.7 · Relevant coursework: Database Systems, Statistics for Data Science (hypothesis testing, regression), Machine Learning, Data Structures
+
+EXPERIENCE
+Student Data Assistant — SLU Office of Institutional Research, Hammond, LA      Aug 2024 – Present
+• Wrote SQL queries in PostgreSQL to pull enrollment data for 14,000 students each semester
+• Built a Tableau dashboard tracking retention by major that is now used by 6 department heads
+• Cleaned and merged messy spreadsheet exports in Python with Pandas, cutting report prep time from 2 days to 3 hours
+• Presented monthly findings to the assistant provost and other non-technical stakeholders
+• Added data quality checks that flag missing or duplicate student records before each report
+
+IT Help Desk Technician — SLU Technology Support Center      Jan 2023 – Jul 2024
+• Responsible for resolving 30+ tickets per week for students and faculty
+• Helped write a troubleshooting guide in Confluence used by new technicians
+
+PROJECTS
+Campus Food Truck Demand Forecast (Python, scikit-learn)
+• Collected 8 months of sales data and built a linear regression model to forecast daily demand with 82% accuracy
+• Visualized results with Matplotlib and shared a Jupyter notebook on GitHub
+
+Course Scheduler Web App (React, Node.js, MySQL)
+• Worked on a team of 4 students to build a course planning tool using an Agile workflow with weekly sprints
+
+SKILLS
+SQL, PostgreSQL, MySQL, Python, Pandas, NumPy, scikit-learn, Tableau, Power BI, Excel (pivot tables, VLOOKUP), Git, Jupyter, React, statistics, communication, teamwork

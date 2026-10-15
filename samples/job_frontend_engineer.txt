@@ -1,0 +1,17 @@
+Junior Frontend Engineer — Pelican Labs (Remote)
+
+We're a small product studio building web apps for healthcare startups. You will build fast, accessible interfaces with our design team.
+
+Responsibilities
+• Build responsive user interfaces in React and TypeScript
+• Turn Figma designs into reusable components with Tailwind CSS
+• Write unit tests with Jest and end-to-end tests with Playwright
+• Integrate REST APIs and GraphQL endpoints
+• Care about accessibility (WCAG) and web performance
+
+Requirements
+• Experience with JavaScript, TypeScript and React is required
+• Solid HTML and CSS fundamentals
+• Familiarity with Git, GitHub and code reviews
+• Good communication and teamwork in a remote team
+• Bonus: Next.js, Vite, or experience with design systems

@@ -1,0 +1,2430 @@
+[
+ {
+  "name": "Python",
+  "category": "language",
+  "aliases": [
+   "python3"
+  ],
+  "hint": "Build a small project in Python and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "JavaScript",
+  "category": "language",
+  "aliases": [
+   "js",
+   "ecmascript",
+   "es6"
+  ],
+  "hint": "Build a small project in JavaScript and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "TypeScript",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in TypeScript and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Java",
+  "category": "language",
+  "aliases": [
+   "java8",
+   "java 11",
+   "java 17"
+  ],
+  "hint": "Build a small project in Java and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "C",
+  "category": "language",
+  "aliases": [
+   "c language",
+   "ansi c"
+  ],
+  "hint": "Build a small project in C and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "C++",
+  "category": "language",
+  "aliases": [
+   "cpp",
+   "c plus plus"
+  ],
+  "hint": "Build a small project in C++ and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "C#",
+  "category": "language",
+  "aliases": [
+   "c sharp",
+   "csharp"
+  ],
+  "hint": "Build a small project in C# and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Go",
+  "category": "language",
+  "aliases": [
+   "golang"
+  ],
+  "hint": "Build a small project in Go and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Rust",
+  "category": "language",
+  "aliases": [
+   "rust lang"
+  ],
+  "hint": "Build a small project in Rust and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Ruby",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Ruby and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "PHP",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in PHP and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Swift",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Swift and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Kotlin",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Kotlin and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Scala",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Scala and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "R",
+  "category": "language",
+  "aliases": [
+   "r language",
+   "r programming",
+   "rstudio"
+  ],
+  "hint": "Build a small project in R and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "MATLAB",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in MATLAB and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Julia",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Julia and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Perl",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Perl and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Bash",
+  "category": "language",
+  "aliases": [
+   "shell scripting",
+   "shell script",
+   "bash scripting"
+  ],
+  "hint": "Build a small project in Bash and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "PowerShell",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in PowerShell and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "SQL",
+  "category": "language",
+  "aliases": [
+   "structured query language",
+   "sql queries"
+  ],
+  "hint": "Build a small project in SQL and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "HTML",
+  "category": "language",
+  "aliases": [
+   "html5"
+  ],
+  "hint": "Build a small project in HTML and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "CSS",
+  "category": "language",
+  "aliases": [
+   "css3"
+  ],
+  "hint": "Build a small project in CSS and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Dart",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Dart and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Objective-C",
+  "category": "language",
+  "aliases": [
+   "objective c"
+  ],
+  "hint": "Build a small project in Objective-C and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Haskell",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Haskell and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Elixir",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Elixir and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Lua",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Lua and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Assembly",
+  "category": "language",
+  "aliases": [
+   "assembly language"
+  ],
+  "hint": "Build a small project in Assembly and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "VBA",
+  "category": "language",
+  "aliases": [
+   "excel vba",
+   "visual basic for applications"
+  ],
+  "hint": "Build a small project in VBA and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "SAS",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in SAS and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "Solidity",
+  "category": "language",
+  "aliases": [],
+  "hint": "Build a small project in Solidity and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "GraphQL",
+  "category": "language",
+  "aliases": [
+   "gql"
+  ],
+  "hint": "Build a small project in GraphQL and work through an official tutorial; aim to solve 20 practice problems."
+ },
+ {
+  "name": "React",
+  "category": "frontend",
+  "aliases": [
+   "react.js",
+   "reactjs"
+  ],
+  "hint": "Rebuild one page of a real site with React and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Angular",
+  "category": "frontend",
+  "aliases": [
+   "angularjs",
+   "angular.js"
+  ],
+  "hint": "Rebuild one page of a real site with Angular and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Vue.js",
+  "category": "frontend",
+  "aliases": [
+   "vue",
+   "vuejs"
+  ],
+  "hint": "Rebuild one page of a real site with Vue.js and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Svelte",
+  "category": "frontend",
+  "aliases": [
+   "sveltekit"
+  ],
+  "hint": "Rebuild one page of a real site with Svelte and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Next.js",
+  "category": "frontend",
+  "aliases": [
+   "nextjs",
+   "next js"
+  ],
+  "hint": "Rebuild one page of a real site with Next.js and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Nuxt",
+  "category": "frontend",
+  "aliases": [
+   "nuxt.js"
+  ],
+  "hint": "Rebuild one page of a real site with Nuxt and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Redux",
+  "category": "frontend",
+  "aliases": [
+   "redux toolkit"
+  ],
+  "hint": "Rebuild one page of a real site with Redux and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Tailwind CSS",
+  "category": "frontend",
+  "aliases": [
+   "tailwind",
+   "tailwindcss"
+  ],
+  "hint": "Rebuild one page of a real site with Tailwind CSS and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Bootstrap",
+  "category": "frontend",
+  "aliases": [],
+  "hint": "Rebuild one page of a real site with Bootstrap and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Sass",
+  "category": "frontend",
+  "aliases": [
+   "scss"
+  ],
+  "hint": "Rebuild one page of a real site with Sass and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "jQuery",
+  "category": "frontend",
+  "aliases": [],
+  "hint": "Rebuild one page of a real site with jQuery and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Webpack",
+  "category": "frontend",
+  "aliases": [],
+  "hint": "Rebuild one page of a real site with Webpack and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Vite",
+  "category": "frontend",
+  "aliases": [],
+  "hint": "Rebuild one page of a real site with Vite and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Responsive Design",
+  "category": "frontend",
+  "aliases": [
+   "responsive web design",
+   "mobile-first design"
+  ],
+  "hint": "Rebuild one page of a real site with Responsive Design and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Accessibility",
+  "category": "frontend",
+  "aliases": [
+   "a11y",
+   "wcag",
+   "web accessibility"
+  ],
+  "hint": "Rebuild one page of a real site with Accessibility and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Three.js",
+  "category": "frontend",
+  "aliases": [
+   "threejs"
+  ],
+  "hint": "Rebuild one page of a real site with Three.js and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "D3.js",
+  "category": "frontend",
+  "aliases": [
+   "d3",
+   "d3js"
+  ],
+  "hint": "Rebuild one page of a real site with D3.js and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Web Performance",
+  "category": "frontend",
+  "aliases": [
+   "core web vitals",
+   "page speed optimization"
+  ],
+  "hint": "Rebuild one page of a real site with Web Performance and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Material UI",
+  "category": "frontend",
+  "aliases": [
+   "mui"
+  ],
+  "hint": "Rebuild one page of a real site with Material UI and deploy it; follow the official docs' getting-started guide."
+ },
+ {
+  "name": "Node.js",
+  "category": "backend",
+  "aliases": [
+   "node",
+   "nodejs",
+   "node js"
+  ],
+  "hint": "Create a tiny API or service using Node.js, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Express.js",
+  "category": "backend",
+  "aliases": [
+   "express",
+   "expressjs"
+  ],
+  "hint": "Create a tiny API or service using Express.js, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Django",
+  "category": "backend",
+  "aliases": [],
+  "hint": "Create a tiny API or service using Django, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Flask",
+  "category": "backend",
+  "aliases": [],
+  "hint": "Create a tiny API or service using Flask, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "FastAPI",
+  "category": "backend",
+  "aliases": [
+   "fast api"
+  ],
+  "hint": "Create a tiny API or service using FastAPI, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Spring Boot",
+  "category": "backend",
+  "aliases": [
+   "spring",
+   "spring framework"
+  ],
+  "hint": "Create a tiny API or service using Spring Boot, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "ASP.NET",
+  "category": "backend",
+  "aliases": [
+   "asp.net core",
+   ".net core",
+   "dotnet",
+   ".net"
+  ],
+  "hint": "Create a tiny API or service using ASP.NET, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Ruby on Rails",
+  "category": "backend",
+  "aliases": [
+   "rails",
+   "ror"
+  ],
+  "hint": "Create a tiny API or service using Ruby on Rails, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Laravel",
+  "category": "backend",
+  "aliases": [],
+  "hint": "Create a tiny API or service using Laravel, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "REST APIs",
+  "category": "backend",
+  "aliases": [
+   "rest",
+   "restful",
+   "rest api",
+   "restful apis",
+   "api development"
+  ],
+  "hint": "Create a tiny API or service using REST APIs, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "gRPC",
+  "category": "backend",
+  "aliases": [],
+  "hint": "Create a tiny API or service using gRPC, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Microservices",
+  "category": "backend",
+  "aliases": [
+   "microservice architecture"
+  ],
+  "hint": "Create a tiny API or service using Microservices, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "WebSockets",
+  "category": "backend",
+  "aliases": [
+   "websocket",
+   "socket.io"
+  ],
+  "hint": "Create a tiny API or service using WebSockets, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "GraphQL APIs",
+  "category": "backend",
+  "aliases": [
+   "apollo"
+  ],
+  "hint": "Create a tiny API or service using GraphQL APIs, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "OAuth",
+  "category": "backend",
+  "aliases": [
+   "oauth2",
+   "openid connect",
+   "oidc"
+  ],
+  "hint": "Create a tiny API or service using OAuth, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Serverless",
+  "category": "backend",
+  "aliases": [
+   "aws lambda",
+   "lambda functions",
+   "cloud functions"
+  ],
+  "hint": "Create a tiny API or service using Serverless, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Message Queues",
+  "category": "backend",
+  "aliases": [
+   "rabbitmq",
+   "sqs",
+   "message broker"
+  ],
+  "hint": "Create a tiny API or service using Message Queues, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Kafka",
+  "category": "backend",
+  "aliases": [
+   "apache kafka"
+  ],
+  "hint": "Create a tiny API or service using Kafka, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Celery",
+  "category": "backend",
+  "aliases": [],
+  "hint": "Create a tiny API or service using Celery, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "Nginx",
+  "category": "backend",
+  "aliases": [],
+  "hint": "Create a tiny API or service using Nginx, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "API Design",
+  "category": "backend",
+  "aliases": [
+   "api design patterns"
+  ],
+  "hint": "Create a tiny API or service using API Design, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "System Design",
+  "category": "backend",
+  "aliases": [
+   "distributed systems",
+   "scalable systems"
+  ],
+  "hint": "Create a tiny API or service using System Design, add tests, and deploy it to a free tier host."
+ },
+ {
+  "name": "PostgreSQL",
+  "category": "database",
+  "aliases": [
+   "postgres",
+   "psql"
+  ],
+  "hint": "Design a schema for a hobby project in PostgreSQL and practise 15 real queries against sample data."
+ },
+ {
+  "name": "MySQL",
+  "category": "database",
+  "aliases": [],
+  "hint": "Design a schema for a hobby project in MySQL and practise 15 real queries against sample data."
+ },
+ {
+  "name": "SQLite",
+  "category": "database",
+  "aliases": [],
+  "hint": "Design a schema for a hobby project in SQLite and practise 15 real queries against sample data."
+ },
+ {
+  "name": "MongoDB",
+  "category": "database",
+  "aliases": [
+   "mongo"
+  ],
+  "hint": "Design a schema for a hobby project in MongoDB and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Redis",
+  "category": "database",
+  "aliases": [],
+  "hint": "Design a schema for a hobby project in Redis and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Oracle Database",
+  "category": "database",
+  "aliases": [
+   "oracle",
+   "pl/sql",
+   "plsql"
+  ],
+  "hint": "Design a schema for a hobby project in Oracle Database and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Microsoft SQL Server",
+  "category": "database",
+  "aliases": [
+   "sql server",
+   "mssql",
+   "t-sql",
+   "tsql"
+  ],
+  "hint": "Design a schema for a hobby project in Microsoft SQL Server and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Cassandra",
+  "category": "database",
+  "aliases": [],
+  "hint": "Design a schema for a hobby project in Cassandra and practise 15 real queries against sample data."
+ },
+ {
+  "name": "DynamoDB",
+  "category": "database",
+  "aliases": [],
+  "hint": "Design a schema for a hobby project in DynamoDB and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Elasticsearch",
+  "category": "database",
+  "aliases": [
+   "elastic search",
+   "elk",
+   "opensearch"
+  ],
+  "hint": "Design a schema for a hobby project in Elasticsearch and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Snowflake",
+  "category": "database",
+  "aliases": [],
+  "hint": "Design a schema for a hobby project in Snowflake and practise 15 real queries against sample data."
+ },
+ {
+  "name": "BigQuery",
+  "category": "database",
+  "aliases": [
+   "google bigquery"
+  ],
+  "hint": "Design a schema for a hobby project in BigQuery and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Redshift",
+  "category": "database",
+  "aliases": [
+   "amazon redshift"
+  ],
+  "hint": "Design a schema for a hobby project in Redshift and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Firebase",
+  "category": "database",
+  "aliases": [
+   "firestore"
+  ],
+  "hint": "Design a schema for a hobby project in Firebase and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Neo4j",
+  "category": "database",
+  "aliases": [
+   "graph database"
+  ],
+  "hint": "Design a schema for a hobby project in Neo4j and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Database Design",
+  "category": "database",
+  "aliases": [
+   "data modeling",
+   "schema design",
+   "database schema",
+   "normalization"
+  ],
+  "hint": "Design a schema for a hobby project in Database Design and practise 15 real queries against sample data."
+ },
+ {
+  "name": "ORM",
+  "category": "database",
+  "aliases": [
+   "sqlalchemy",
+   "hibernate",
+   "prisma",
+   "entity framework"
+  ],
+  "hint": "Design a schema for a hobby project in ORM and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Supabase",
+  "category": "database",
+  "aliases": [],
+  "hint": "Design a schema for a hobby project in Supabase and practise 15 real queries against sample data."
+ },
+ {
+  "name": "Machine Learning",
+  "category": "data",
+  "aliases": [
+   "ml",
+   "machine-learning"
+  ],
+  "hint": "Take a free course on Machine Learning (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Deep Learning",
+  "category": "data",
+  "aliases": [
+   "neural networks",
+   "neural network"
+  ],
+  "hint": "Take a free course on Deep Learning (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Natural Language Processing",
+  "category": "data",
+  "aliases": [
+   "nlp",
+   "text mining"
+  ],
+  "hint": "Take a free course on Natural Language Processing (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Computer Vision",
+  "category": "data",
+  "aliases": [
+   "image recognition",
+   "image processing",
+   "CV models"
+  ],
+  "hint": "Take a free course on Computer Vision (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "TensorFlow",
+  "category": "data",
+  "aliases": [
+   "tensorflow 2",
+   "keras",
+   "TF2"
+  ],
+  "hint": "Take a free course on TensorFlow (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "PyTorch",
+  "category": "data",
+  "aliases": [
+   "torch"
+  ],
+  "hint": "Take a free course on PyTorch (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "scikit-learn",
+  "category": "data",
+  "aliases": [
+   "sklearn",
+   "scikit learn"
+  ],
+  "hint": "Take a free course on scikit-learn (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Pandas",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Pandas (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "NumPy",
+  "category": "data",
+  "aliases": [
+   "numpy arrays"
+  ],
+  "hint": "Take a free course on NumPy (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Matplotlib",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Matplotlib (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Seaborn",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Seaborn (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Plotly",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Plotly (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Jupyter",
+  "category": "data",
+  "aliases": [
+   "jupyter notebook",
+   "jupyter notebooks",
+   "ipython"
+  ],
+  "hint": "Take a free course on Jupyter (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Data Analysis",
+  "category": "data",
+  "aliases": [
+   "data analytics",
+   "analyzing data",
+   "analyze data",
+   "data analyst"
+  ],
+  "hint": "Take a free course on Data Analysis (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Data Visualization",
+  "category": "data",
+  "aliases": [
+   "data viz",
+   "dashboards",
+   "dashboarding",
+   "dashboard",
+   "data visualizations",
+   "visualized",
+   "visualize"
+  ],
+  "hint": "Take a free course on Data Visualization (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Statistics",
+  "category": "data",
+  "aliases": [
+   "statistical analysis",
+   "statistical modeling",
+   "inferential statistics",
+   "statistical"
+  ],
+  "hint": "Take a free course on Statistics (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Probability",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Probability (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "A/B Testing",
+  "category": "data",
+  "aliases": [
+   "ab testing",
+   "split testing",
+   "experimentation"
+  ],
+  "hint": "Take a free course on A/B Testing (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Regression Analysis",
+  "category": "data",
+  "aliases": [
+   "linear regression",
+   "logistic regression"
+  ],
+  "hint": "Take a free course on Regression Analysis (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Time Series Analysis",
+  "category": "data",
+  "aliases": [
+   "time series"
+  ],
+  "hint": "Take a free course on Time Series Analysis (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Data Cleaning",
+  "category": "data",
+  "aliases": [
+   "data wrangling",
+   "data preprocessing",
+   "data cleansing",
+   "data munging",
+   "cleaned",
+   "clean data",
+   "data validation",
+   "validate data",
+   "validated"
+  ],
+  "hint": "Take a free course on Data Cleaning (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Feature Engineering",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Feature Engineering (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "ETL",
+  "category": "data",
+  "aliases": [
+   "extract transform load",
+   "data pipelines",
+   "data pipeline",
+   "elt"
+  ],
+  "hint": "Take a free course on ETL (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Apache Spark",
+  "category": "data",
+  "aliases": [
+   "spark",
+   "pyspark"
+  ],
+  "hint": "Take a free course on Apache Spark (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Hadoop",
+  "category": "data",
+  "aliases": [
+   "hdfs",
+   "mapreduce"
+  ],
+  "hint": "Take a free course on Hadoop (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Airflow",
+  "category": "data",
+  "aliases": [
+   "apache airflow"
+  ],
+  "hint": "Take a free course on Airflow (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "dbt",
+  "category": "data",
+  "aliases": [
+   "data build tool"
+  ],
+  "hint": "Take a free course on dbt (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Data Warehousing",
+  "category": "data",
+  "aliases": [
+   "data warehouse"
+  ],
+  "hint": "Take a free course on Data Warehousing (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Big Data",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Big Data (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Tableau",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Tableau (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Power BI",
+  "category": "data",
+  "aliases": [
+   "powerbi",
+   "power-bi"
+  ],
+  "hint": "Take a free course on Power BI (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Looker",
+  "category": "data",
+  "aliases": [
+   "looker studio",
+   "google data studio"
+  ],
+  "hint": "Take a free course on Looker (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Excel",
+  "category": "data",
+  "aliases": [
+   "microsoft excel",
+   "ms excel",
+   "spreadsheets",
+   "pivot tables",
+   "vlookup"
+  ],
+  "hint": "Take a free course on Excel (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Google Sheets",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Google Sheets (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Large Language Models",
+  "category": "data",
+  "aliases": [
+   "llm",
+   "llms",
+   "generative ai",
+   "genai",
+   "gpt"
+  ],
+  "hint": "Take a free course on Large Language Models (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Prompt Engineering",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Prompt Engineering (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "MLOps",
+  "category": "data",
+  "aliases": [
+   "ml ops",
+   "model deployment"
+  ],
+  "hint": "Take a free course on MLOps (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Hugging Face",
+  "category": "data",
+  "aliases": [
+   "huggingface",
+   "transformers library"
+  ],
+  "hint": "Take a free course on Hugging Face (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "LangChain",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on LangChain (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Reinforcement Learning",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Reinforcement Learning (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Recommender Systems",
+  "category": "data",
+  "aliases": [
+   "recommendation systems",
+   "recommendation engine"
+  ],
+  "hint": "Take a free course on Recommender Systems (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Data Mining",
+  "category": "data",
+  "aliases": [],
+  "hint": "Take a free course on Data Mining (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Hypothesis Testing",
+  "category": "data",
+  "aliases": [
+   "t-test",
+   "chi-square",
+   "anova",
+   "hypothesis tests",
+   "significance testing"
+  ],
+  "hint": "Take a free course on Hypothesis Testing (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Predictive Modeling",
+  "category": "data",
+  "aliases": [
+   "predictive analytics"
+  ],
+  "hint": "Take a free course on Predictive Modeling (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Data Governance",
+  "category": "data",
+  "aliases": [
+   "data quality"
+  ],
+  "hint": "Take a free course on Data Governance (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Business Intelligence",
+  "category": "data",
+  "aliases": [
+   "BI"
+  ],
+  "hint": "Take a free course on Business Intelligence (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "Model Evaluation",
+  "category": "data",
+  "aliases": [
+   "cross-validation",
+   "precision and recall",
+   "roc auc"
+  ],
+  "hint": "Take a free course on Model Evaluation (e.g. Kaggle Learn or Coursera audit) and publish a notebook applying it to a public dataset."
+ },
+ {
+  "name": "AWS",
+  "category": "cloud",
+  "aliases": [
+   "amazon web services",
+   "ec2",
+   "s3",
+   "amazon aws"
+  ],
+  "hint": "Follow a hands-on AWS lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Microsoft Azure",
+  "category": "cloud",
+  "aliases": [
+   "azure"
+  ],
+  "hint": "Follow a hands-on Microsoft Azure lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Google Cloud",
+  "category": "cloud",
+  "aliases": [
+   "gcp",
+   "google cloud platform"
+  ],
+  "hint": "Follow a hands-on Google Cloud lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Docker",
+  "category": "cloud",
+  "aliases": [
+   "containerization",
+   "dockerfile"
+  ],
+  "hint": "Follow a hands-on Docker lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Kubernetes",
+  "category": "cloud",
+  "aliases": [
+   "k8s",
+   "kubectl",
+   "helm"
+  ],
+  "hint": "Follow a hands-on Kubernetes lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Terraform",
+  "category": "cloud",
+  "aliases": [
+   "infrastructure as code",
+   "iac"
+  ],
+  "hint": "Follow a hands-on Terraform lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Ansible",
+  "category": "cloud",
+  "aliases": [],
+  "hint": "Follow a hands-on Ansible lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "CI/CD",
+  "category": "cloud",
+  "aliases": [
+   "ci cd",
+   "continuous integration",
+   "continuous delivery",
+   "continuous deployment"
+  ],
+  "hint": "Follow a hands-on CI/CD lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "GitHub Actions",
+  "category": "cloud",
+  "aliases": [],
+  "hint": "Follow a hands-on GitHub Actions lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Jenkins",
+  "category": "cloud",
+  "aliases": [],
+  "hint": "Follow a hands-on Jenkins lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "GitLab CI",
+  "category": "cloud",
+  "aliases": [],
+  "hint": "Follow a hands-on GitLab CI lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Linux",
+  "category": "cloud",
+  "aliases": [
+   "unix",
+   "ubuntu",
+   "red hat",
+   "centos"
+  ],
+  "hint": "Follow a hands-on Linux lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "DevOps",
+  "category": "cloud",
+  "aliases": [],
+  "hint": "Follow a hands-on DevOps lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Site Reliability Engineering",
+  "category": "cloud",
+  "aliases": [
+   "sre"
+  ],
+  "hint": "Follow a hands-on Site Reliability Engineering lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Monitoring",
+  "category": "cloud",
+  "aliases": [
+   "observability",
+   "prometheus",
+   "grafana",
+   "datadog"
+  ],
+  "hint": "Follow a hands-on Monitoring lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Cloud Computing",
+  "category": "cloud",
+  "aliases": [],
+  "hint": "Follow a hands-on Cloud Computing lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Networking",
+  "category": "cloud",
+  "aliases": [
+   "tcp/ip",
+   "dns",
+   "http",
+   "network protocols"
+  ],
+  "hint": "Follow a hands-on Networking lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Load Balancing",
+  "category": "cloud",
+  "aliases": [],
+  "hint": "Follow a hands-on Load Balancing lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Heroku",
+  "category": "cloud",
+  "aliases": [],
+  "hint": "Follow a hands-on Heroku lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Vercel",
+  "category": "cloud",
+  "aliases": [],
+  "hint": "Follow a hands-on Vercel lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Netlify",
+  "category": "cloud",
+  "aliases": [],
+  "hint": "Follow a hands-on Netlify lab and deploy one of your projects with it; free tiers cover most labs."
+ },
+ {
+  "name": "Git",
+  "category": "tools",
+  "aliases": [
+   "version control",
+   "git version control"
+  ],
+  "hint": "Use Git in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "GitHub",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use GitHub in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "GitLab",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use GitLab in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Bitbucket",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use Bitbucket in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Jira",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use Jira in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Confluence",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use Confluence in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Postman",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use Postman in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "VS Code",
+  "category": "tools",
+  "aliases": [
+   "visual studio code",
+   "vscode"
+  ],
+  "hint": "Use VS Code in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Visual Studio",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use Visual Studio in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "IntelliJ",
+  "category": "tools",
+  "aliases": [
+   "intellij idea"
+  ],
+  "hint": "Use IntelliJ in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Figma",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use Figma in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Adobe XD",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use Adobe XD in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Photoshop",
+  "category": "tools",
+  "aliases": [
+   "adobe photoshop"
+  ],
+  "hint": "Use Photoshop in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Illustrator",
+  "category": "tools",
+  "aliases": [
+   "adobe illustrator"
+  ],
+  "hint": "Use Illustrator in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Slack",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use Slack in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Notion",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use Notion in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Trello",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use Trello in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Salesforce",
+  "category": "tools",
+  "aliases": [
+   "sfdc"
+  ],
+  "hint": "Use Salesforce in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "SAP",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use SAP in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "HubSpot",
+  "category": "tools",
+  "aliases": [],
+  "hint": "Use HubSpot in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Google Analytics",
+  "category": "tools",
+  "aliases": [
+   "ga4"
+  ],
+  "hint": "Use Google Analytics in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Microsoft Office",
+  "category": "tools",
+  "aliases": [
+   "ms office",
+   "office 365",
+   "microsoft 365"
+  ],
+  "hint": "Use Microsoft Office in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Unity",
+  "category": "tools",
+  "aliases": [
+   "unity3d"
+  ],
+  "hint": "Use Unity in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Unreal Engine",
+  "category": "tools",
+  "aliases": [
+   "unreal"
+  ],
+  "hint": "Use Unreal Engine in your next class or personal project; watch a 1-hour walkthrough and note shortcuts."
+ },
+ {
+  "name": "Unit Testing",
+  "category": "testing",
+  "aliases": [
+   "unit tests"
+  ],
+  "hint": "Add Unit Testing to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Integration Testing",
+  "category": "testing",
+  "aliases": [
+   "integration tests"
+  ],
+  "hint": "Add Integration Testing to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Test-Driven Development",
+  "category": "testing",
+  "aliases": [
+   "tdd"
+  ],
+  "hint": "Add Test-Driven Development to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Jest",
+  "category": "testing",
+  "aliases": [],
+  "hint": "Add Jest to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Pytest",
+  "category": "testing",
+  "aliases": [],
+  "hint": "Add Pytest to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "JUnit",
+  "category": "testing",
+  "aliases": [],
+  "hint": "Add JUnit to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Selenium",
+  "category": "testing",
+  "aliases": [],
+  "hint": "Add Selenium to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Cypress",
+  "category": "testing",
+  "aliases": [],
+  "hint": "Add Cypress to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Playwright",
+  "category": "testing",
+  "aliases": [],
+  "hint": "Add Playwright to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "QA Testing",
+  "category": "testing",
+  "aliases": [
+   "quality assurance",
+   "manual testing",
+   "QA"
+  ],
+  "hint": "Add QA Testing to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Test Automation",
+  "category": "testing",
+  "aliases": [
+   "automated testing",
+   "automation testing"
+  ],
+  "hint": "Add Test Automation to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Debugging",
+  "category": "testing",
+  "aliases": [
+   "troubleshooting code"
+  ],
+  "hint": "Add Debugging to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Code Review",
+  "category": "testing",
+  "aliases": [
+   "code reviews",
+   "peer review"
+  ],
+  "hint": "Add Code Review to an existing project and get a few meaningful tests passing in CI."
+ },
+ {
+  "name": "Cybersecurity",
+  "category": "security",
+  "aliases": [
+   "cyber security",
+   "information security",
+   "infosec"
+  ],
+  "hint": "Work through a beginner Cybersecurity module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "Network Security",
+  "category": "security",
+  "aliases": [],
+  "hint": "Work through a beginner Network Security module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "Penetration Testing",
+  "category": "security",
+  "aliases": [
+   "pen testing",
+   "pentesting",
+   "ethical hacking"
+  ],
+  "hint": "Work through a beginner Penetration Testing module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "Encryption",
+  "category": "security",
+  "aliases": [
+   "cryptography"
+  ],
+  "hint": "Work through a beginner Encryption module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "Identity and Access Management",
+  "category": "security",
+  "aliases": [
+   "iam"
+  ],
+  "hint": "Work through a beginner Identity and Access Management module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "OWASP",
+  "category": "security",
+  "aliases": [
+   "owasp top 10",
+   "web application security"
+  ],
+  "hint": "Work through a beginner OWASP module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "SIEM",
+  "category": "security",
+  "aliases": [
+   "splunk"
+  ],
+  "hint": "Work through a beginner SIEM module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "Incident Response",
+  "category": "security",
+  "aliases": [],
+  "hint": "Work through a beginner Incident Response module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "Vulnerability Assessment",
+  "category": "security",
+  "aliases": [
+   "vulnerability scanning"
+  ],
+  "hint": "Work through a beginner Vulnerability Assessment module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "Compliance",
+  "category": "security",
+  "aliases": [
+   "gdpr",
+   "hipaa",
+   "soc 2",
+   "soc2",
+   "pci dss"
+  ],
+  "hint": "Work through a beginner Compliance module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "Risk Assessment",
+  "category": "security",
+  "aliases": [
+   "risk management"
+  ],
+  "hint": "Work through a beginner Risk Assessment module (TryHackMe, OWASP guides) and write up what you learned."
+ },
+ {
+  "name": "iOS Development",
+  "category": "mobile",
+  "aliases": [
+   "ios",
+   "ios development"
+  ],
+  "hint": "Ship a small app with iOS Development \u2014 a to-do or habit tracker is enough to show on your resume."
+ },
+ {
+  "name": "Android Development",
+  "category": "mobile",
+  "aliases": [
+   "android"
+  ],
+  "hint": "Ship a small app with Android Development \u2014 a to-do or habit tracker is enough to show on your resume."
+ },
+ {
+  "name": "React Native",
+  "category": "mobile",
+  "aliases": [],
+  "hint": "Ship a small app with React Native \u2014 a to-do or habit tracker is enough to show on your resume."
+ },
+ {
+  "name": "Flutter",
+  "category": "mobile",
+  "aliases": [],
+  "hint": "Ship a small app with Flutter \u2014 a to-do or habit tracker is enough to show on your resume."
+ },
+ {
+  "name": "SwiftUI",
+  "category": "mobile",
+  "aliases": [],
+  "hint": "Ship a small app with SwiftUI \u2014 a to-do or habit tracker is enough to show on your resume."
+ },
+ {
+  "name": "Mobile Development",
+  "category": "mobile",
+  "aliases": [
+   "mobile apps",
+   "mobile app development"
+  ],
+  "hint": "Ship a small app with Mobile Development \u2014 a to-do or habit tracker is enough to show on your resume."
+ },
+ {
+  "name": "Object-Oriented Programming",
+  "category": "engineering",
+  "aliases": [
+   "oop",
+   "object oriented programming",
+   "object-oriented design"
+  ],
+  "hint": "Study Object-Oriented Programming with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Data Structures",
+  "category": "engineering",
+  "aliases": [
+   "data structures and algorithms"
+  ],
+  "hint": "Study Data Structures with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Algorithms",
+  "category": "engineering",
+  "aliases": [
+   "algorithm design"
+  ],
+  "hint": "Study Algorithms with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Design Patterns",
+  "category": "engineering",
+  "aliases": [
+   "software design patterns"
+  ],
+  "hint": "Study Design Patterns with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Software Architecture",
+  "category": "engineering",
+  "aliases": [],
+  "hint": "Study Software Architecture with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Functional Programming",
+  "category": "engineering",
+  "aliases": [],
+  "hint": "Study Functional Programming with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Concurrency",
+  "category": "engineering",
+  "aliases": [
+   "multithreading",
+   "parallel programming"
+  ],
+  "hint": "Study Concurrency with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Software Development Life Cycle",
+  "category": "engineering",
+  "aliases": [
+   "sdlc"
+  ],
+  "hint": "Study Software Development Life Cycle with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Embedded Systems",
+  "category": "engineering",
+  "aliases": [
+   "firmware",
+   "microcontrollers",
+   "arduino",
+   "raspberry pi"
+  ],
+  "hint": "Study Embedded Systems with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Operating Systems",
+  "category": "engineering",
+  "aliases": [],
+  "hint": "Study Operating Systems with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Computer Networks",
+  "category": "engineering",
+  "aliases": [],
+  "hint": "Study Computer Networks with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Blockchain",
+  "category": "engineering",
+  "aliases": [],
+  "hint": "Study Blockchain with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Web Development",
+  "category": "engineering",
+  "aliases": [
+   "web developer",
+   "full stack",
+   "full-stack",
+   "fullstack"
+  ],
+  "hint": "Study Web Development with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Frontend Development",
+  "category": "engineering",
+  "aliases": [
+   "front-end"
+  ],
+  "hint": "Study Frontend Development with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Backend Development",
+  "category": "engineering",
+  "aliases": [
+   "back-end"
+  ],
+  "hint": "Study Backend Development with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Technical Documentation",
+  "category": "engineering",
+  "aliases": [
+   "technical writing"
+  ],
+  "hint": "Study Technical Documentation with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Performance Optimization",
+  "category": "engineering",
+  "aliases": [
+   "performance tuning"
+  ],
+  "hint": "Study Performance Optimization with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Scripting",
+  "category": "engineering",
+  "aliases": [
+   "automation scripts"
+  ],
+  "hint": "Study Scripting with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "Command Line",
+  "category": "engineering",
+  "aliases": [
+   "CLI"
+  ],
+  "hint": "Study Command Line with a focused resource (e.g. a textbook chapter or course module) and apply it to a project."
+ },
+ {
+  "name": "UI Design",
+  "category": "design",
+  "aliases": [
+   "user interface design",
+   "UI"
+  ],
+  "hint": "Redesign one screen of an app you use with UI Design principles and add it to a portfolio."
+ },
+ {
+  "name": "UX Design",
+  "category": "design",
+  "aliases": [
+   "user experience",
+   "ux research",
+   "user research",
+   "UX"
+  ],
+  "hint": "Redesign one screen of an app you use with UX Design principles and add it to a portfolio."
+ },
+ {
+  "name": "Wireframing",
+  "category": "design",
+  "aliases": [
+   "wireframes",
+   "prototyping",
+   "mockups"
+  ],
+  "hint": "Redesign one screen of an app you use with Wireframing principles and add it to a portfolio."
+ },
+ {
+  "name": "Graphic Design",
+  "category": "design",
+  "aliases": [],
+  "hint": "Redesign one screen of an app you use with Graphic Design principles and add it to a portfolio."
+ },
+ {
+  "name": "Design Systems",
+  "category": "design",
+  "aliases": [],
+  "hint": "Redesign one screen of an app you use with Design Systems principles and add it to a portfolio."
+ },
+ {
+  "name": "Usability Testing",
+  "category": "design",
+  "aliases": [],
+  "hint": "Redesign one screen of an app you use with Usability Testing principles and add it to a portfolio."
+ },
+ {
+  "name": "Project Management",
+  "category": "business",
+  "aliases": [
+   "project manager",
+   "managing projects"
+  ],
+  "hint": "Take a short course on Project Management and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Product Management",
+  "category": "business",
+  "aliases": [
+   "product manager",
+   "product roadmap",
+   "roadmapping"
+  ],
+  "hint": "Take a short course on Product Management and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Agile",
+  "category": "business",
+  "aliases": [
+   "agile methodology",
+   "agile development"
+  ],
+  "hint": "Take a short course on Agile and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Scrum",
+  "category": "business",
+  "aliases": [
+   "scrum master",
+   "sprint planning"
+  ],
+  "hint": "Take a short course on Scrum and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Kanban",
+  "category": "business",
+  "aliases": [],
+  "hint": "Take a short course on Kanban and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Waterfall",
+  "category": "business",
+  "aliases": [],
+  "hint": "Take a short course on Waterfall and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Stakeholder Management",
+  "category": "business",
+  "aliases": [
+   "stakeholders",
+   "stakeholder communication"
+  ],
+  "hint": "Take a short course on Stakeholder Management and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Requirements Gathering",
+  "category": "business",
+  "aliases": [
+   "business requirements",
+   "requirements analysis"
+  ],
+  "hint": "Take a short course on Requirements Gathering and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Business Analysis",
+  "category": "business",
+  "aliases": [
+   "business analyst"
+  ],
+  "hint": "Take a short course on Business Analysis and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Financial Analysis",
+  "category": "business",
+  "aliases": [
+   "financial modeling",
+   "financial modelling"
+  ],
+  "hint": "Take a short course on Financial Analysis and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Budgeting",
+  "category": "business",
+  "aliases": [
+   "budget management"
+  ],
+  "hint": "Take a short course on Budgeting and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Accounting",
+  "category": "business",
+  "aliases": [
+   "bookkeeping",
+   "gaap"
+  ],
+  "hint": "Take a short course on Accounting and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Marketing",
+  "category": "business",
+  "aliases": [
+   "digital marketing",
+   "marketing campaigns",
+   "marketing strategy"
+  ],
+  "hint": "Take a short course on Marketing and describe a class or club project where you applied it.",
+  "match_name": false
+ },
+ {
+  "name": "SEO",
+  "category": "business",
+  "aliases": [
+   "search engine optimization"
+  ],
+  "hint": "Take a short course on SEO and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Content Marketing",
+  "category": "business",
+  "aliases": [
+   "content creation",
+   "content strategy"
+  ],
+  "hint": "Take a short course on Content Marketing and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Social Media Marketing",
+  "category": "business",
+  "aliases": [],
+  "hint": "Take a short course on Social Media Marketing and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Email Marketing",
+  "category": "business",
+  "aliases": [],
+  "hint": "Take a short course on Email Marketing and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Sales",
+  "category": "business",
+  "aliases": [
+   "sales experience",
+   "b2b sales",
+   "inside sales",
+   "business development",
+   "sales targets",
+   "quota"
+  ],
+  "hint": "Take a short course on Sales and describe a class or club project where you applied it.",
+  "match_name": false
+ },
+ {
+  "name": "Customer Service",
+  "category": "business",
+  "aliases": [
+   "customer service",
+   "customer support",
+   "client support"
+  ],
+  "hint": "Take a short course on Customer Service and describe a class or club project where you applied it.",
+  "match_name": false
+ },
+ {
+  "name": "CRM",
+  "category": "business",
+  "aliases": [
+   "customer relationship management"
+  ],
+  "hint": "Take a short course on CRM and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Market Research",
+  "category": "business",
+  "aliases": [
+   "competitive analysis"
+  ],
+  "hint": "Take a short course on Market Research and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Operations Management",
+  "category": "business",
+  "aliases": [],
+  "hint": "Take a short course on Operations Management and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Supply Chain Management",
+  "category": "business",
+  "aliases": [
+   "supply chain"
+  ],
+  "hint": "Take a short course on Supply Chain Management and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Process Improvement",
+  "category": "business",
+  "aliases": [
+   "six sigma",
+   "continuous improvement"
+  ],
+  "hint": "Take a short course on Process Improvement and describe a class or club project where you applied it."
+ },
+ {
+  "name": "KPI Tracking",
+  "category": "business",
+  "aliases": [
+   "kpis",
+   "metrics tracking",
+   "okrs"
+  ],
+  "hint": "Take a short course on KPI Tracking and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Reporting",
+  "category": "business",
+  "aliases": [
+   "reporting",
+   "report writing",
+   "reports"
+  ],
+  "hint": "Take a short course on Reporting and describe a class or club project where you applied it.",
+  "match_name": false
+ },
+ {
+  "name": "Forecasting Models",
+  "category": "business",
+  "aliases": [
+   "demand forecasting"
+  ],
+  "hint": "Take a short course on Forecasting Models and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Data-Driven Decision Making",
+  "category": "business",
+  "aliases": [
+   "data-driven"
+  ],
+  "hint": "Take a short course on Data-Driven Decision Making and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Vendor Management",
+  "category": "business",
+  "aliases": [],
+  "hint": "Take a short course on Vendor Management and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Event Planning",
+  "category": "business",
+  "aliases": [],
+  "hint": "Take a short course on Event Planning and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Recruiting",
+  "category": "business",
+  "aliases": [
+   "talent acquisition",
+   "recruitment"
+  ],
+  "hint": "Take a short course on Recruiting and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Human Resources",
+  "category": "business",
+  "aliases": [
+   "HR"
+  ],
+  "hint": "Take a short course on Human Resources and describe a class or club project where you applied it."
+ },
+ {
+  "name": "Healthcare",
+  "category": "business",
+  "aliases": [
+   "patient care",
+   "clinical experience",
+   "ehr",
+   "electronic health records",
+   "hipaa"
+  ],
+  "hint": "Take a short course on Healthcare and describe a class or club project where you applied it.",
+  "match_name": false
+ },
+ {
+  "name": "Education",
+  "category": "business",
+  "aliases": [
+   "curriculum development",
+   "lesson planning",
+   "classroom instruction"
+  ],
+  "hint": "Take a short course on Education and describe a class or club project where you applied it.",
+  "match_name": false
+ },
+ {
+  "name": "Research",
+  "category": "business",
+  "aliases": [
+   "research assistant",
+   "literature review",
+   "research skills",
+   "conducted research"
+  ],
+  "hint": "Take a short course on Research and describe a class or club project where you applied it.",
+  "match_name": false
+ },
+ {
+  "name": "Communication",
+  "category": "soft",
+  "aliases": [
+   "communication skills",
+   "verbal communication",
+   "written communication"
+  ],
+  "hint": "Find a concrete story that shows Communication (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Teamwork",
+  "category": "soft",
+  "aliases": [
+   "team player",
+   "collaboration",
+   "collaborative",
+   "cross-functional",
+   "cross functional"
+  ],
+  "hint": "Find a concrete story that shows Teamwork (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Leadership",
+  "category": "soft",
+  "aliases": [
+   "led a team",
+   "team lead",
+   "leading teams",
+   "lead a team",
+   "led a team of",
+   "team leader",
+   "kitchen lead",
+   "shift lead"
+  ],
+  "hint": "Find a concrete story that shows Leadership (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Problem Solving",
+  "category": "soft",
+  "aliases": [
+   "problem-solving",
+   "solve problems",
+   "troubleshooting"
+  ],
+  "hint": "Find a concrete story that shows Problem Solving (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Critical Thinking",
+  "category": "soft",
+  "aliases": [
+   "analytical thinking",
+   "analytical skills"
+  ],
+  "hint": "Find a concrete story that shows Critical Thinking (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Time Management",
+  "category": "soft",
+  "aliases": [
+   "prioritization",
+   "managing deadlines",
+   "meet deadlines"
+  ],
+  "hint": "Find a concrete story that shows Time Management (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Attention to Detail",
+  "category": "soft",
+  "aliases": [
+   "detail-oriented",
+   "detail oriented"
+  ],
+  "hint": "Find a concrete story that shows Attention to Detail (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Adaptability",
+  "category": "soft",
+  "aliases": [
+   "flexibility",
+   "adaptable"
+  ],
+  "hint": "Find a concrete story that shows Adaptability (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Creativity",
+  "category": "soft",
+  "aliases": [],
+  "hint": "Find a concrete story that shows Creativity (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Presentation Skills",
+  "category": "soft",
+  "aliases": [
+   "presentations",
+   "public speaking"
+  ],
+  "hint": "Find a concrete story that shows Presentation Skills (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Mentoring",
+  "category": "soft",
+  "aliases": [
+   "mentorship",
+   "mentored"
+  ],
+  "hint": "Find a concrete story that shows Mentoring (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Negotiation",
+  "category": "soft",
+  "aliases": [],
+  "hint": "Find a concrete story that shows Negotiation (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Conflict Resolution",
+  "category": "soft",
+  "aliases": [],
+  "hint": "Find a concrete story that shows Conflict Resolution (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Customer Focus",
+  "category": "soft",
+  "aliases": [
+   "customer-focused",
+   "client-facing"
+  ],
+  "hint": "Find a concrete story that shows Customer Focus (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Self-Motivation",
+  "category": "soft",
+  "aliases": [
+   "self-starter",
+   "self motivated",
+   "proactive"
+  ],
+  "hint": "Find a concrete story that shows Self-Motivation (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Organization",
+  "category": "soft",
+  "aliases": [
+   "organizational skills"
+  ],
+  "hint": "Find a concrete story that shows Organization (STAR format) and practise telling it in under 90 seconds.",
+  "match_name": false
+ },
+ {
+  "name": "Decision Making",
+  "category": "soft",
+  "aliases": [],
+  "hint": "Find a concrete story that shows Decision Making (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Emotional Intelligence",
+  "category": "soft",
+  "aliases": [],
+  "hint": "Find a concrete story that shows Emotional Intelligence (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Interpersonal Skills",
+  "category": "soft",
+  "aliases": [
+   "relationship building"
+  ],
+  "hint": "Find a concrete story that shows Interpersonal Skills (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Work Ethic",
+  "category": "soft",
+  "aliases": [],
+  "hint": "Find a concrete story that shows Work Ethic (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Multitasking",
+  "category": "soft",
+  "aliases": [],
+  "hint": "Find a concrete story that shows Multitasking (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Curiosity",
+  "category": "soft",
+  "aliases": [
+   "eager to learn",
+   "continuous learning",
+   "fast learner",
+   "quick learner"
+  ],
+  "hint": "Find a concrete story that shows Curiosity (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Ownership",
+  "category": "soft",
+  "aliases": [
+   "accountability"
+  ],
+  "hint": "Find a concrete story that shows Ownership (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Bilingual",
+  "category": "soft",
+  "aliases": [
+   "multilingual",
+   "spanish (conversational)",
+   "bilingual spanish",
+   "fluent in spanish",
+   "spanish"
+  ],
+  "hint": "Find a concrete story that shows Bilingual (STAR format) and practise telling it in under 90 seconds."
+ },
+ {
+  "name": "Storytelling",
+  "category": "soft",
+  "aliases": [
+   "data storytelling"
+  ],
+  "hint": "Find a concrete story that shows Storytelling (STAR format) and practise telling it in under 90 seconds."
+ }
+]
